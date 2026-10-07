@@ -1,0 +1,8 @@
+.build/
+dist/
+.DS_Store
+*.log
+Assets/*.icns
+
+__pycache__/
+*.pyc
